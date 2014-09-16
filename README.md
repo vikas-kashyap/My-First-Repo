@@ -5,4 +5,4 @@ My-First-Repo
 now edited on local machine
 
 
-second edeit by local machine
+second edit by local machine
